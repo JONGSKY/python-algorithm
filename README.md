@@ -24,3 +24,4 @@
 ### 출처 및 참고사항
 
 - [이것이 (취업을 위한) 코딩 테스트다 with 파이썬](https://github.com/ndb796/python-for-coding-test)
+- [코딩테스트-준비방법](https://velog.io/@productuidev/%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-8-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84%EB%B0%A9%EB%B2%95#2-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EB%B0%A9%EB%B2%95)

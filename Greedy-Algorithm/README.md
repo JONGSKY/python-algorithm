@@ -6,7 +6,7 @@
 ------------ 문제 풀이 ------------
 
 |문제파일|문제이름|해설답안|
-|:------:|------|:---:|
+|:------:|:------:|:---:|
 |3-1.py|거스름 돈|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-1.py)|
 |3-2.py|큰 수의 법칙|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-2.py)|
 |3-3.py|숫자 카드 게임|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-3.py)|

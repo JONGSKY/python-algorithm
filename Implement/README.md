@@ -18,7 +18,7 @@
 
 |문제파일|문제이름|해설답안|
 |:------:|:------:|:---:|
-|[이론]4-1.py|거스름 돈|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-1.py)|
-|[이론]4-2.py|큰 수의 법칙|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-2.py)|
-|[실전]4-3.py|숫자 카드 게임|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-3.py)|
-|[실전]4-4.py|1이 될 때까지|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-4.py)|
+|[이론]4-1.py|상하좌우|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-1.py)|
+|[이론]4-2.py|시각|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-2.py)|
+|[실전]4-3.py|왕실의 나이트|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-3.py)|
+|[실전]4-4.py|게임 개발|[해설](https://github.com/JONGSKY/python-algorithm/blob/main/Greedy-Algorithm/3-4.py)|

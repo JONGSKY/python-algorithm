@@ -15,7 +15,7 @@
 |탐욕 알고리즘(그리디)|1주차(7/19~7/22)|[링크](https://github.com/JONGSKY/python-algorithm/tree/main/Greedy-Algorithm)|
 |구현|2주차(7/25~7/29)|[링크](https://github.com/JONGSKY/python-algorithm/tree/main/Implement)|
 |DFS/BFS|3주차(8/1~8/5)|[링크](https://github.com/JONGSKY/python-algorithm/tree/main/DFS-BFS)|
-|정렬|4주차(8/8~8/12)|미정|
+|정렬|4주차(8/8~8/12)|링크|
 |이진 탐색|5주차(8/15~8/19)|미정|
 |다이나믹 프로그래밍|6주차(8/22~8/26)|미정|
 |최단 경로|7주차(8/29~9/2)|미정|
